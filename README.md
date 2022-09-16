@@ -1,4 +1,4 @@
-# Guia de estilos
+# Projeto by Alura para estudar flexboxe grid
 
 Toda a estilização que será usada no projeto dentro do figma.
 
