@@ -1,4 +1,4 @@
-# Projeto by Alura para estudar flexboxe grid
+# Projeto by Alura para estudar flexbox e grid
 
 Toda a estilização que será usada no projeto dentro do figma.
 
